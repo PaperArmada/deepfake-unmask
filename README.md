@@ -6,7 +6,7 @@ DSIR-0124 Capstone; Develop a neural net that can distinguish between computer g
 Deepfakes and computer generated human likenesses have become surprisingly convincing, nearly to the point of being indistinguishable from reality to the untrained eye. Even with guidance, the average individual struggles to outperform chance when tasked with identifying generated images from real ones (Nightingale and Farid, 2022). Can a neural net be trained to identify real from generated images that outperforms human capability in this space?
 
 
-### Executive Summary
+### Summary
 
 
 
